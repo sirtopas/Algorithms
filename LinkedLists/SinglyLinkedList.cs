@@ -4,7 +4,7 @@ namespace LinkedLists
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var list = new SinglyLinkedLists();
             list.InsertFirst(100);
